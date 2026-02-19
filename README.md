@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 <!--
 **OlgaM-DS/OlgaM-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
