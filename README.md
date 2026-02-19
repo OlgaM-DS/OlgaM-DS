@@ -1,5 +1,5 @@
 # About me
-
+*Дата‑сайентист. Решаю бизнес‑задачи с помощью анализа данных и ML: прогнозирование спроса, сегментация клиентов, оптимизация процессов*
 <!--
 **OlgaM-DS/OlgaM-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
