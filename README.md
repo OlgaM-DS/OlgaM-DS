@@ -5,7 +5,7 @@
 - Программирование: `Python`, `SQL`
 - Анализ данных: `pandas`, `NumPy`, `SciPy`
 - Визуализация: `Matplotlib`, `Seaborn`
-- Машинное обучение: `scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, `CatBoost`, `LightGBM`
+- Машинное обучение: `scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, `CatBoost`, `LightGBM`, `statsmodels`
 - Обработка естественного языка : `NLTK`, `BERT`
 - Интерпретация модели `SHAP`
 - Базы данных: `PostgreSQL`
